@@ -103,7 +103,7 @@ JUPYTER LAB [click here](https://jupyterlab.readthedocs.io/en/stable/getting_sta
    
    [click here](https://github.com/brprod8/Quantitative_Analyst/archive/refs/heads/main.zip) for zip file
 
-   [Click here](https://github.com/brprod8/Quantitative_Analyst/edit/main/README.md) to visit  GITHUB for CLONE
+   [Click here](https://github.com/brprod8/Quantitative_Analyst) to visit  GITHUB for CLONE
 ## LICENSE
 **Open to Experiment**
 
