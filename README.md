@@ -60,13 +60,13 @@
 
  ![](pics/sharp.png)
 
->👨🏿‍⚖️Click [Risk to return](https://www.investopedia.com/terms/r/riskrewardratio.asp) or [Sharp Ratio](https://www.freshbooks.com/en-gb/hub/accounting/sharpe-ratio#:~:text=Sharpe%20Ratio%20Formula%201%20Rx%20%3D%20Expected%20average,3%20StdDev%20Rx%20%3D%20Standard%20Deviation%20of%20return) to learn more
+>📈Click [Risk to return](https://www.investopedia.com/terms/r/riskrewardratio.asp) or [Sharp Ratio](https://www.freshbooks.com/en-gb/hub/accounting/sharpe-ratio#:~:text=Sharpe%20Ratio%20Formula%201%20Rx%20%3D%20Expected%20average,3%20StdDev%20Rx%20%3D%20Standard%20Deviation%20of%20return) to learn more
 
 Sharp ratio Bar Graph
 
 ![](pics/sharpgraph.png)
 
->👨🏿‍⚖️ Graphs tell us a lot information [click here](https://corporatefinanceinstitute.com/resources/excel/study/types-of-graphs/) to learn more on when to use certain graphs
+>📈 Graphs tell us a lot information [click here](https://corporatefinanceinstitute.com/resources/excel/study/types-of-graphs/) to learn more on when to use certain graphs
 
 # STEP 5
 
@@ -86,3 +86,35 @@ Sharp ratio Bar Graph
    >👨🏿‍⚖️Tiger global has less sensible movement then Berkshire we can can visual see the difference
    
     📈Tiger global is the recommended portfolio for fund offerings compared to Berkshire
+  ## REQUIREMENTS
+ *As of 5/4/22*
+ 
+ PYTHON 3.10 [click here](https://www.python.org/downloads/)
+
+PANDAS [click here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+
+PATHLIBS [click here](https://pypi.org/project/pathlib/)
+
+JUPYTER LAB [click here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+
+## INSTALLATION
+
+>👨🏿‍⚖️install  zip downloand or clone 
+   
+   [click here](https://github.com/brprod8/Quantitative_Analyst/archive/refs/heads/main.zip) for zip file
+
+   [Click here](git@github.com:brprod8/Quantitative_Analyst.git) to visit  GITHUB for CLONE
+## LICENSE
+**Open to Experiment**
+
+BY:ROBERT SMITH
+
+ CREDIT: UC BERKELEY
+
+ EMAIL - Brprod8@gmail.com for Colloboration 
+
+## FACTS
+
+ [Risk management and portfolio](https://www.arborinvestmentplanner.com/portfolio-diversification-definition-and-purpose/#:~:text=In%20finance%20and%20investment%20planning%2C%20portfolio%20diversification%20is,should%20include%20diversification%20rules%20that%20are%20strictly%20followed.) diversification are two key aims of quantitative analysis.Metrics like the variance, beta, and rolling beta, can be calculated per portfolios. The purpose will be to determine the volatility of the portfolios relative to the market, as represented by the S&P 500. By finding the beta, you’ll be able to assess the risk profile of each portfolio.
+
+ >📈Quantitative Analyst made simple with [pandas](https://www.journaldev.com/55404/pandas-data-analysis#:~:text=%20Pandas%20for%20Data%20analysis%20%201%20Pandas,merging%2C%20concatenating%20and%20reshaping%20as%20well.%20More%20)
