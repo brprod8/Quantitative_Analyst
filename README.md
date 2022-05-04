@@ -1,7 +1,6 @@
 
 
-![](../pics\risk.jpg)
-=======
+
 ![](pics\risk.jpg)
 
 
@@ -24,13 +23,13 @@
   WE can infer that `BERKSHIRE HATHAWAY INC` Fund porfolio performance is greater than    the other porfolio 
 
 # STEP 2
-<<<<<<< HEAD
+
 * Analyze the Volatility
 
 >👨🏿‍⚖️Analyze the volatility of each of the four fund portfolios and of the S&P 500 Index by using box plots.
 
-![](../pics\volatility.png)
+![](pics\volatility.png)
 
 >👨 Why do we use Box plot ? [click here](https://www.statology.org/when-to-use-box-plot/)
-=======
+
 
