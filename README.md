@@ -1,7 +1,7 @@
 
 
 
-![](pics\risk.jpg)
+![](pics/risk.jpg)
 
 
 `Quantitative analyst` *for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. (Think about Wealthfront (Links to an external site.) or Betterment (Links to an external site.)). To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.* 
@@ -16,7 +16,7 @@
  
  >👨🏿‍⚖️Analyze the data to determine if any of the portfolios outperform the broader stock market, which is the S&P 500
   
-  ![](pics\performance.png)
+  ![](pics/performance.png)
 
  >👨🏿‍⚖️*This is 4 Fund Porfolio including  S&P500*
 
@@ -28,7 +28,7 @@
 
 >👨🏿‍⚖️Analyze the volatility of each of the four fund portfolios and of the S&P 500 Index by using box plots.
 
-![](pics\volatility.png)
+![](pics/volatility.png)
 
 >👨 Why do we use Box plot ? [click here](https://www.statology.org/when-to-use-box-plot/)
 
