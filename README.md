@@ -20,7 +20,7 @@
 
  >👨🏿‍⚖️*This is 4 Fund Porfolio including  S&P500*
 
-  WE can infer that `BERKSHIRE HATHAWAY INC` Fund porfolio performance is greater than    the other porfolio 
+  We can infer that no porfolio signifcantly outperformed the broader stock market
 
 # STEP 2
 
